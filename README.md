@@ -2,6 +2,10 @@
 
 This project automates front-end tests using **Cypress** for a fictional e-commerce website called **ShopEase**. It simulates real user behavior and validates the store's key functionalities, ensuring robustness and application quality.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/714e9b9f-ec3b-4494-a95c-fac3c2c49c35" alt="cypress" width="400" />
+</p>
+
 ---
 
 ## 🚀 Technologies Used
