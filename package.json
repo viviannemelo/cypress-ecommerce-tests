@@ -1,0 +1,13 @@
+{
+  "name": "cypress-ecommerce-tests",
+  "version": "1.0.0",
+  "description": "E2E tests using Cypress for an e-commerce site",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "faker": "^5.5.3"
+  }
+}
